@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Singh</h1>
-<p> <image src="https://github.com/ranshu1601/ranshu1601/blob/main/foliopic.jpg" width= "350" height="390" class="center"/><image align="right" src="https://github.com/ranshu1601/ranshu1601/blob/main/got.gif" width="470" height="420" /> </p>
+<p> <image src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width= "350" height="390" class="center"/></p>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noiceee&label=Profile%20views&color=ac87b0&style=flat-square" alt="noiceee" /> </p>
