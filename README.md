@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noiceee&label=Profile%20views&color=ac87b0&style=flat-square" alt="noiceee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noiceee" alt="noiceee" /></a> </p>
-
 - 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://noiceee.github.io/heyyy](https://noiceee.github.io/heyyy)
