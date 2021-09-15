@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Singh</h1>
-<p align="center"> <image src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width= "350" height="390" align="center"/></p>
+<p align="center"> <image src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" align="center"/></p>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noiceee&label=Profile%20views&color=ac87b0&style=flat-square" alt="noiceee" /> </p>
