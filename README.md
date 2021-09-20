@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img style="width:40px; vertical-align:text-bottom" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"></img>, I'm Kartikey Singh</h1>
+<h1 align="center">Hi <img style="width:30px; vertical-align:text-bottom" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"></img>, I'm Kartikey Singh</h1>
 <p align="center"> <image src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" align="center"/></p>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
