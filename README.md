@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://noiceee.github.io/heyyy](https://noiceee.github.io/heyyy)
+- 👨‍💻 All of my projects are available at [https://kartikey.tech](https://kartikey.tech)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
