@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- 📫 How to reach me **codingwalaid@gmail.com**
+- 📫 How to reach me **kartikey2k3@gmail.com**
 
 - ⚡ Fun fact **My computer has the power of trillions of primary school students being forced to perform maths.**
 
