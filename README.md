@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://kartikey.tech](https://kartikey.tech)
+- 👨‍💻 All of my projects are available at [https://kartikeyyy.netlify.app](https://kartikeyyy.netlify.app)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
