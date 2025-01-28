@@ -1,14 +1,12 @@
 <h1 align="center">Hi <img style="width:30px; vertical-align:text-bottom" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"></img>, I'm Kartikey</h1>
 <p align="center"> <image src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" align="center"/></p>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noiceee&label=Profile%20views&color=ac87b0&style=flat-square" alt="noiceee" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
-
 - 👨‍💻 All of my projects are available at [https://kartikeyyy.netlify.app](https://kartikeyyy.netlify.app)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **HTML, CSS and JavaScript, React, Node, Lit**
 
 - 📫 How to reach me **kartikey2k3@gmail.com**
 
